@@ -10,4 +10,7 @@ Demo Video.mp4: video showcasing the results obtained after running the web appl
 Graduate Project.ipynb: Jupyter notebook for the project code and results
 
 
+AI-Stroke-Rehab-Assistant.pptx: Project results, visualizations and flow.
+
+
 Link to the dataset used in the proejct: https://www.kaggle.com/datasets/sulaimanmuhammed/wlu-rehabilitation-posture
